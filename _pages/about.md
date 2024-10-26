@@ -7,6 +7,38 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  #tabs {
+    margin-bottom: 20px;
+  }
+  #tabs button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  #tabs button:hover {
+    background-color: #005f99;
+  }
+  .tabcontent {
+    display: none;
+  }
+  .tabcontent.active {
+    display: block;
+  }
+</style>
+
+<div id="tabs">
+  <button onclick="openTab('english')">English</button>
+  <button onclick="openTab('chinese')">中文</button>
+</div>
+
+<div id="english" class="tabcontent active">
+
+About Me (English)
 ======
 
 **Current Role**:
@@ -25,7 +57,7 @@ My research and work experience encompass short-term power trading, algorithm de
 
 Work Experience
 ------
-- **Quantitative Short-Term Power Trader (March 2024 - Now)**
+- **Quantitative Short-Term Power Trader (March 2024 - Sept 2024)**
   - Developed and optimized algorithmic trading strategies, focusing on improving market pricing strategies and profitability.
 
 - **PhD Researcher - Delft University of Technology (Sep 2021 - Present)**
@@ -48,5 +80,62 @@ Awards and Achievements
 - **Champion of China Reinforcement Learning Application Competition (2022)**
 - **National Excellent Graduate Student Award (2020)**
 
+</div>
 
+<div id="chinese" class="tabcontent">
 
+关于我 (Chinese)
+======
+
+**当前角色**：
+我是侯胜任，是代尔夫特理工大学的博士生，专注于短期电力市场交易和研究。我的研究方向包括短期电力衍生品、日前和日内交易，以及物理传输权拍卖。我的目标是通过优化交易策略，在动态市场中实现高盈利。
+
+**未来愿景**：
+我的职业目标是继续在短期电力交易方面精进，并带领一个高效的团队，利用基本面和量化策略来实现稳定的盈利目标，打造一个成功的交易团队。
+
+**专业技能**：
+- **电力系统与电力市场知识**：深入了解欧洲电力市场机制，如 EUPHEMIA 和流量分配方法。
+- **可再生能源预测**：擅长可再生能源生产预测及其在交易算法中的应用。
+- **算法交易**：具备开发和实施高级算法交易策略的能力。
+- **编程和数据分析**：熟练使用 Python 和 SQL，并熟悉机器学习工具如 PyTorch 和 TensorFlow。
+
+我的研究和工作经验涵盖了短期电力交易、算法开发以及电力市场的动态分析，希望通过持续的研究和实践，推动电力市场的高效运行与创新发展。
+
+工作经验
+------
+- **短期电力交易量化交易员 - (2024年3月 - 至今)**
+  - 开发并优化算法交易策略，专注于提高市场定价策略和盈利能力。
+
+  - 管理日内电力交易及跨市场位置，调整交易策略以优化利润。
+- **博士研究员 - Delft University of Technology (2021年9月 - 至今)**
+  - 开展基于 AI 的策略研究，以提高配电网络的拥塞管理和盈利能力。
+
+教育背景
+------
+- **代尔夫特理工大学**：电气工程博士候选人，研究方向为基于强化学习的电池调度收益优化。
+- **广西大学**：电气工程硕士，研究方向为中国电力市场中的跨境电力传输。
+- **东北电力大学**：电气与电子工程学士，主修电力网络分析，潮流计算和电力市场政策。
+
+项目经验
+------
+- **跨境交易的 DA/ID 电力市场算法交易**
+- **DA/ID 电力市场套利策略**
+- **推动 TU Delft 智能能源转型**：开发 TU Delft 校园配电网的数字孪生系统，用于配电网络的实时监控和分析。
+
+获奖与成就
+------
+- **中国强化学习应用竞赛冠军 (2022)**
+- **国家奖学金 (2020)**
+
+</div>
+
+<script>
+function openTab(tabName) {
+  var i;
+  var x = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < x.length; i++) {
+    x[i].classList.remove("active");
+  }
+  document.getElementById(tabName).classList.add("active");
+}
+</script>
