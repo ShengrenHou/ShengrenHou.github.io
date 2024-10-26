@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hou Shengren - Short-Term Power Market Trader and PhD Candidate"
+title: "Welcome to Hou Shengren's website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -42,14 +42,6 @@ redirect_from:
 I am Hou Shengren, currently a PhD candidate at TU Delft, specializing in short-term power market trading and research. My focus is on short-term power derivatives, day-ahead and intraday trading, and physical transmission right auctions. My goal is to optimize trading strategies to achieve high profitability in dynamic markets.
 
 My career goal is to continue refining my expertise in short-term power trading while building and leading a high-performance team or Company. I aim to leverage both fundamental and quantitative strategies to achieve stable profits and create a successful trading company.
-
-**Core Skills**:
-- **Electricity Systems and Power Market Knowledge**: In-depth understanding of key systems such as EUPHEMIA, balancing mechanisms in various EU countries, and flow-based capacity allocation methods.
-- **Renewable Energy Forecasting**: Proficient in forecasting renewable energy production and integrating this into trading algorithms for day-ahead and intraday markets.
-- **Algorithmic Trading**: Skilled in developing and implementing advanced algorithmic trading strategies to optimize short-term power market performance.
-- **Programming and Data Analysis**: Proficient in Python and SQL, with experience in machine learning tools such as PyTorch and TensorFlow.
-
-My research and work experience encompass short-term power trading, algorithm development, and dynamic analysis of power markets. I aim to drive efficient market operations and foster innovation through continuous research and practice.
 
 
 </div>
