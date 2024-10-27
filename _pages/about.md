@@ -39,9 +39,12 @@ redirect_from:
 <div id="english" class="tabcontent active">
 
 
-I am Hou Shengren, currently a PhD candidate at TU Delft, specializing in short-term power market trading and research. My focus is on short-term power derivatives, day-ahead and intraday trading, and physical transmission right auctions. My goal is to optimize trading strategies to achieve high profitability in dynamic markets.
+I am Hou Shengren, an power market expert. I know almost everything about the power system and power market across EU, USA, Japan and China. My bachelor, master and PhD are all related to the power system and power market. I am a short-term power trader and reshearcher in the Netherlands. My focus is on short-term power derivatives, day-ahead and intraday trading, and physical transmission right auctions.
 
 My career goal is to continue refining my expertise in short-term power trading while building and leading a high-performance team or Company. I aim to leverage both fundamental and quantitative strategies to achieve stable profits and create a successful trading company.
+
+In college, I really enjoyed playing League of Legends and was quite good at it. However, now I only watch match videos and no longer play the game. Currently, in my free time, I enjoy reading history books, participating in non-profit activities, and staying fit.
+
 
 
 </div>
@@ -49,11 +52,12 @@ My career goal is to continue refining my expertise in short-term power trading 
 <div id="chinese" class="tabcontent">
 
 
-我是侯胜任，是代尔夫特理工大学的博士生，专注于短期电力市场交易和研究。我的研究方向包括短期电力衍生品、日前和日内交易，以及物理传输权拍卖。我的目标是通过优化交易策略，在动态市场中实现高盈利。
+我是侯胜任，电力系统和电力市场专家。我了解欧洲、美国、日本和中国的电力系统和电力市场。我的本科、硕士和博士学位都与电力系统和电力市场相关。我目前在荷兰担任短期电力交易员和研究员，专注于短期电力衍生品、日前和日内交易，以及物理传输权拍卖。
 
-我的职业目标是继续在短期电力交易方面精进，并带领一个高效的团队或公司，利用基本面和量化策略来实现稳定的盈利目标，打造一个成功的交易团队。
+我的职业目标是继续在短期电力交易方面精进，并带领一个高效的团队或公司，利用基本面和量化策略来实现稳定的盈利，打造一个成功的交易公司。
 
-我的研究和工作经验涵盖了短期电力交易、算法开发以及电力市场的动态分析，希望通过持续的研究和实践，推动电力市场的高效运行与创新发展。
+在大学期间，我特别喜欢玩《英雄联盟》，而且打得很好。不过现在，我只看看比赛视频，不再玩游戏了。目前，我空余时间喜欢读历史书、参与非营利组织的活动以及健身。
+
 
 </div>
 
