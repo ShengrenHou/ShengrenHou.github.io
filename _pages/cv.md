@@ -68,7 +68,7 @@ redirect_from:
 ### **Arbitrage Strategy in DA/ID Power Market**
 
 ### **Single Day Ahead Clearing Algorithm (EUPHEMIA) Reproduction and Investigation**
-*Super important for day ahead price forecasting in EU and developing trading strategies.*
+
 
 ### **Series Analysis and Prediction for Intraday Capacity Release (b)**  
 *Increase Significantly PnL to Short-term Power Trading*  
