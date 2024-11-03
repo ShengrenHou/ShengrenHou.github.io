@@ -43,7 +43,7 @@ I am Hou Shengren, an power market expert. I know almost everything about the po
 
 My career goal is to continue refining my expertise in short-term power trading while building and leading a high-performance team or Company. I aim to leverage both fundamental and quantitative strategies to achieve stable profits and create a successful trading company.
 
-In college, I really enjoyed playing League of Legends and was quite good at it. However, now I only watch match videos and no longer play the game. Currently, in my free time, I enjoy reading history books, participating in non-profit activities, and staying fit.
+In my free time, I enjoy reading history books, participating in non-profit activities, and staying fit.
 
 
 
@@ -56,7 +56,7 @@ In college, I really enjoyed playing League of Legends and was quite good at it.
 
 我的职业目标是继续在短期电力交易方面精进，并带领一个高效的团队或公司，利用基本面和量化策略来实现稳定的盈利，打造一个成功的交易公司。
 
-在大学期间，我特别喜欢玩《英雄联盟》，而且打得很好。不过现在，我只看看比赛视频，不再玩游戏了。目前，我空余时间喜欢读历史书、参与非营利组织的活动以及健身。
+我空余时间喜欢读历史书、参与非营利组织的活动以及健身。
 
 
 </div>
