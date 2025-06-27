@@ -3,8 +3,8 @@ layout: splash
 permalink: /
 title: "Hou Shengren | 侯胜任"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#5e616c"
+  overlay_filter: "0.2"
   overlay_image: /images/image-alignment-1200x4002.jpg
   actions:
     - label: "Download CV"
@@ -37,15 +37,43 @@ feature_row:
     url: "/cv/"
     btn_label: "View CV"
     btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: /images/unsplash-gallery-image-1-th.jpg
+    alt: "Teaching"
+    title: "Teaching"
+    excerpt: "Explore my teaching experience, course materials, and educational resources."
+    url: "/teaching/"
+    btn_label: "View Teaching"
+    btn_class: "btn--primary"
+  - image_path: /images/unsplash-gallery-image-2-th.jpg
+    alt: "Talks"
+    title: "Talks & Presentations"
+    excerpt: "Recordings and materials from my presentations at conferences, workshops, and seminars."
+    url: "/talks/"
+    btn_label: "View Talks"
+    btn_class: "btn--primary"
+  - image_path: /images/unsplash-gallery-image-3-th.jpg
+    alt: "Portfolio"
+    title: "Project Portfolio"
+    excerpt: "A showcase of my key projects, implementations, and technical achievements."
+    url: "/portfolio/"
+    btn_label: "View Portfolio"
+    btn_class: "btn--primary"
 ---
 
 <style>
+  /* Language selector styling */
   .language-selector {
     text-align: center;
-    margin-bottom: 30px;
+    margin: 30px 0;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
   }
   .language-selector button {
-    padding: 10px 20px;
+    padding: 12px 25px;
     margin: 0 10px;
     cursor: pointer;
     background-color: #007acc;
@@ -53,35 +81,88 @@ feature_row:
     border: none;
     border-radius: 4px;
     font-size: 16px;
-    transition: background-color 0.3s;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
   .language-selector button:hover {
     background-color: #005f99;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
   }
+
+  /* Content sections styling */
   .language-content {
     display: none;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
+    animation: fadeIn 0.5s ease-in-out;
+    line-height: 1.6;
   }
   .language-content.active {
     display: block;
   }
   .section-heading {
-    border-bottom: 1px solid #eee;
+    border-bottom: 2px solid #007acc;
     padding-bottom: 10px;
-    margin-top: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: 600;
   }
   .profile-image {
     float: right;
-    margin: 0 0 20px 20px;
+    margin: 0 0 20px 30px;
     max-width: 250px;
     border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border: 5px solid white;
+    transition: transform 0.3s ease;
   }
+  .profile-image:hover {
+    transform: scale(1.02);
+  }
+
+  /* Responsive adjustments */
   @media (max-width: 768px) {
     .profile-image {
       float: none;
-      margin: 0 auto 20px;
+      margin: 0 auto 30px;
       display: block;
     }
+    .language-selector button {
+      margin-bottom: 10px;
+    }
+  }
+
+  /* Quick links styling */
+  .quick-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 30px;
+  }
+  .quick-link {
+    background-color: #007acc;
+    color: white;
+    padding: 12px 18px;
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-block;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  .quick-link:hover {
+    background-color: #005f99;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    color: white;
+  }
+
+  /* Animation */
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
   }
 </style>
 
@@ -118,12 +199,12 @@ feature_row:
   <p>In my free time, I enjoy reading history books, participating in non-profit activities, and staying fit.</p>
 
   <h2 class="section-heading">Quick Links</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-    <a href="/research/" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">Research</a>
-    <a href="/publications/" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">Publications</a>
-    <a href="/cv/" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">CV</a>
-    <a href="/contact/" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">Contact</a>
-    <a href="/files/Hou_Shengren_CV.pdf" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">Download CV</a>
+  <div class="quick-links">
+    <a href="/research/" class="quick-link">Research</a>
+    <a href="/publications/" class="quick-link">Publications</a>
+    <a href="/cv/" class="quick-link">CV</a>
+    <a href="/contact/" class="quick-link">Contact</a>
+    <a href="/files/Hou_Shengren_CV.pdf" class="quick-link">Download CV</a>
   </div>
 </div>
 
@@ -155,17 +236,18 @@ feature_row:
   <p>我空余时间喜欢读历史书、参与非营利组织的活动以及健身。</p>
 
   <h2 class="section-heading">快速链接</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-    <a href="/research/" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">研究</a>
-    <a href="/publications/" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">出版物</a>
-    <a href="/cv/" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">简历</a>
-    <a href="/contact/" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">联系方式</a>
-    <a href="/files/Hou_Shengren_CV.pdf" style="background-color: #007acc; color: white; padding: 10px 15px; text-decoration: none; border-radius: 4px; display: inline-block;">下载简历</a>
+  <div class="quick-links">
+    <a href="/research/" class="quick-link">研究</a>
+    <a href="/publications/" class="quick-link">出版物</a>
+    <a href="/cv/" class="quick-link">简历</a>
+    <a href="/contact/" class="quick-link">联系方式</a>
+    <a href="/files/Hou_Shengren_CV.pdf" class="quick-link">下载简历</a>
   </div>
 </div>
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+{% include feature_row id="feature_row2" %}
 
 <script>
 function switchLanguage(language) {
