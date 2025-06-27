@@ -6,7 +6,7 @@
 
 main:
   - title: "About"
-    url: /about/
+    url: /
 
   - title: "Research"
     url: /research/
@@ -14,17 +14,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-
-  - title: "Portfolio"
-    url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "News"
+    url: /news/    
 
   - title: "CV"
     url: /cv/
