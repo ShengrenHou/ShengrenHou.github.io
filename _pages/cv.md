@@ -35,71 +35,96 @@ redirect_from:
 
 ## **Experience**
 
-### **Non-Compete Period**  
-**Northpool B.V.**  
-*Oct 2024 - Now*
+### **Co-Founder and Managing Director**  
+**Energy Quant Research Institution**  
+*Oct 2024 - Present*
 
-### **Short-term Power Trading and Analysis**  
-**Northpool B.V.**  
-*Mar 2024 - Sept 2024*
+- **Company Establishment**: Founded Energy Quant Research Institution, a consultancy specializing in energy market analysis, trading strategies, and policy advising.
+- **Business Development**: Developed and expanded business scope, covering European and Asian electricity markets, energy transition strategies, and congestion management.
+- **Data and Market Analysis**: Lead the design and implementation of analytical models for energy market forecasting and trading optimization.
+- **Consulting and Advisory**: Provided consulting services to clients on energy policy, trading strategies, and regulatory frameworks in China, Japan, and Europe.
+- **Technology and Innovation**: Developed business tools, models, and training programs to support market participants in navigating complex electricity markets.
 
+
+
+### **Quantitative short-term Power Trader**  
+**OTC FLow B.V.**  
+*Nov 2024 - April 2025*
+
+- **Build Power Trading Desk**: Together set up the short-term power trading desk. This team combines cutting-edge technology, in-depth market knowledge, and quantitative analytics to dramatically improve both market and system efficiency.
+- **Graduate Trader Training**: Train graduate traders to ensure smooth integration and correct logic for power market trading.
+- **Trading Strategy Development**: Maintain and develop new trading strategies to continuously enhance trading performance.
+- **Price Forecasting Project**: Lead the day-ahead price forecasting project to deliver accurate market predictions.
+- **Tech Lead**: Ultra short term-weather forecasting integration to the trading desk.
+
+
+### **Junior Intra Day Power Trader**  
+**Northpool B.V.**  
+*Mar 2024 - Aug 2024*
+
+- **Day-Ahead Trading**: Implement academic knowledge of power market to the full process of day-ahead trading, including cross-border transmission right trading, financial, and spot power trading.
 - **Intraday Power Trading & Position Management**: Managed intraday power trading and positions across Central Western Europe (CWE), the UK, and Nordic markets.
-  - **Trading Execution**: Actively traded intraday power markets and updated positions based on fundamental updates and risk-reward assessments to maximize profit margins.
-  - **Balancing Market Strategy Adjustment**: Regularly adjusted trading strategies in the balancing market.
+  - **Trading Execution**: Actively traded intraday power markets and update positions based on the fundamental update and risk-reward to maximize profit margins.
+  - **Balancing Market Strategy Adjustment**: Regularly adjusted trading strategies in balancing market.
 - **Transmission Right Auctions**: Participated in transmission right auctions for key interconnectors, including Viking, IFA, ElecLink, NEMO, and BritNed.
-- **Comprehensive Knowledge**: Gained fundamental knowledge of market dynamics, price movements, energy policy in EU countries, financial systems, and weather systems.
-- **Practical Skills**: Developed expertise in arbitrage, speculation, hedging, and price spread strategies in the short-term power market.
 
 ### **Ph.D. Researcher**  
 **Delft University of Technology**  
-*Sep 2021 - Present*
+*Sep 2021 - Oct 2024*
 
-- **Research Focus**: AI-based power market profiting and congestion management strategy using flexibility in distribution networks.
-- **Collaborative Work**: Conducted research in collaboration with Prof. Peter Palensky and Prof. Pedro.
-
----
-
-
-
-## **Research and Projects**
-
-### **Algorithm Trading for Cross-Border Trading in DA/ID Power Market**
-*A Safe Speculation strategy for trading in DA and ID power markets*
-### **Arbitrage Strategy in DA/ID Power Market**
-
-### **Single Day Ahead Clearing Algorithm (EUPHEMIA) Reproduction and Investigation**
-
-
-### **Series Analysis and Prediction for Intraday Capacity Release (b)**  
-*Increase Significantly PnL to Short-term Power Trading*  
-*Jun - Sept 2024*
-
-- **Optimization Models**: Developed optimization models for IDCC release.
-- **Analytical Predictions**: Primary prediction model for intraday capacity release after implementing the IDCC solution.
-- **Power Transfer Distribution Factors (PTDF) Impact Analysis**: Assessed the impacts of Power shift transformers (PSTs) on PTDF.
+- **Research Focus**: AI-based bidding strategy using battery in short-term power market.
+- **Comprehensive knowledge**: Fundamental knowledge of market dynamics, price movements, energy policy in EU countries, financial systems, and weather systems.
+- **Practical Skills**: Arbitrage, Speculation, Hedging, Price spread skills in the short-term power market.
+- **Collaborative Work**: Together with Prof. Peter Palensky and Prof. Pedro.
 
 ---
 
-### **Hybrid Energy Forecasting and Trading Competition**  
-*Developing state-of-the-art forecasting models and trading strategies.*  
-*Feb - May 2024*
 
-- **Competition Overview**: Organized by the IEEE Power and Energy Society Working Group on Energy Forecasting and Analytics.
-- **Developed Probabilistic Forecasts**: Forecasted power production from Hornsea 1 wind farm and combined solar capacity of East England.
-- **Modeled Price Distributions**: Built probabilistic models for day-ahead prices and modeled the joint distribution for single system price with day-ahead prices.
-- **Optimal Bidding Strategy**: Formulated optimal bidding strategies using conditional price models and robust optimization models.
+## **Positions of Responsibility**
 
----
+### **Board Member**  
+**Vereniging voor Chinese Wetenschappers en Ingenieurs in Nederland**
 
-### **Towards Smart Energy Transition in TU Delft**  
-*Developing a digital twin at TU Delft Campus for real-time monitoring and analysis.*  
-*Sep 2023 - Present*
+- Lead the organization digital transition.
+- Lead to build energy community.
 
-- **Methodologies/Technologies**: Python, Machine Learning, Data Analytics, Power System Modeling, SQLite, Grafana.
-- **Smart State Estimation**: Monitored network and estimated real-time distribution network measurements.
-- **Time-Series Data Forecasting**: Utilized machine learning algorithms to forecast load consumption.
+### **Member**  
+**Vereniging voor Chinese Wetenschappers en Ingenieurs in Nederland**
 
+- Collaborate to organize entrepreneurship and social activities for Chinese engineers and scholars in the Netherlands.
 
+## **Awards and Achievements**
 
+### **We are the Champion!**  
+**China Reinforcement Learning Application Competition 2022**
 
+- Reinforcement Learning Innovation and Creativity Competition held by Shanghai Digital Brain Laboratory, POLIXIR, and Jiangsu Association of Artificial Intelligence.
 
+### **National Excellent Graduate Student Award**  
+**Education Ministry of the People's Republic of China, 2020**
+
+## **Selected Publications**
+
+1. **RL-ADN: High performance DRL Environments and Benchmarks for Energy Arbitrage in Distribution networks**  
+   **Hou, Shengren**, Shuyi Gao, Duque, Edgar Mauricio Salazar, Palensky, Peter and Vergara, Pedro P  
+   *arXiv preprint arXiv:2307.14304-submit to Applied Energy, 2023*
+
+2. **A Safety-Guaranteed Deep Reinforcement Learning Algorithm for Voltage Regulation in Active Distribution Networks**  
+   **Hou, Shengren**, Salazar, Edgar Mauricio, Vergara, Pedro P., Palensky, Peter  
+   *Submitted to Power System Computing Conference 2023 (PSCC 2023), 2023*
+
+3. **Optimal energy system scheduling using a constraint-aware reinforcement learning algorithm**  
+   **Hou, Shengren**, Vergara, Pedro P, Duque, Edgar Mauricio Salazar, Palensky, Peter  
+   *International Journal of Electrical Power & Energy Systems, 152, 109230, 2023*
+
+4. **A Constraint Enforcement Deep Reinforcement Learning Framework for Optimal Energy Storage Systems Dispatch**  
+   **Hou, Shengren**, Duque, Edgar Mauricio Salazar, Palensky, Peter, Vergara, Pedro P  
+   *arXiv preprint arXiv:2307.14304-submited to IEEE Smart Grid, 2023*
+
+5. **Performance Comparison of Deep RL Algorithms for Energy Systems Optimal Scheduling**  
+   **Hou, Shengren**, Salazar, Edgar Mauricio, Vergara, Pedro P., Palensky, Peter  
+   *2022 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), 1-6, 2022*
+
+6. **Analysis and Implications of Power Balancing Mechanism Under Decentralized Decision-Making: An Example of Electricity Markets Based on Balancing Groups in Germany**  
+   Dan, Lanqing, Song, Haotian, Tang, Qinghu, Guo, Hongye, **Hou, Shengren**, Kang, Chongqing  
+   *Power System Technology, 2024*
