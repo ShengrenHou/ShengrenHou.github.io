@@ -76,6 +76,15 @@ This ongoing project focuses on developing a digital twin at TU Delft Campus for
 - Creating visualization tools for network analysis
 - Designing control algorithms for optimal energy management
 
+## DATALESs: System-Theoretic Data Analytics for Local Energy Systems
+
+This collaborative project aims to develop new system-theoretic data analytics (AI & ML) methods to enhance the coordination of local energy systems (LESs) and green buildings:
+
+- Creating models for LESs operators to enhance operation by coordinating distributed energy resources (DERs)
+- Developing tools for aggregators and energy traders to estimate energy flexibility availability
+- Implementing a smart control framework based on edge computing and 5G communication
+- Designing information models to improve stakeholder integration and implementation of green buildings
+
 # Publications
 
 For a complete list of my publications, please visit the [Publications](/publications/) page.
