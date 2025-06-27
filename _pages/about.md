@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /about/
 title: "About Hou Shengren"
 author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
 ---
 
 <style>
