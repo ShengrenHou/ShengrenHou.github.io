@@ -18,9 +18,9 @@ description: &description "PhD Candidate @ TU Delft | Short-Term Power Market Tr
 author:
   # Biographic information
   avatar           : "profile_hou.jpg"
-  # name             : "Your Sidebar Name"
+  name             : "Hou Shengren"
   # pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate @ TU Delft | Short-Term Power Market Trader"
   location         : "Delft"
   employer         : "TU Delft University"
   uri              : "https://shengrenhou.github.io"
