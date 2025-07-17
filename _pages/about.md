@@ -42,8 +42,6 @@ redirect_from:
 
 <p>I am Hou Shengren, an electricity market expert. I have comprehensive knowledge of power systems and markets across EU, USA, Japan and China. I am a researcher in the Netherlands, focusing on electricity markets, power derivatives, and transmission right auctions.</p>
 
-<p>My career goal is to continue refining my expertise in short-term power trading while building and leading a high-performance team or company. I aim to leverage both fundamental and quantitative strategies to achieve stable profits and create a successful trading company.</p>
-
 <h2>Education</h2>
 
 <ul>
